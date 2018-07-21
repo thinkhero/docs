@@ -1,297 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://docs.decred.org/</loc>
+     <loc>https://h.cash/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/beginner-guide/</loc>
+     <loc>https://h.cash/getting-started/beginner-guide/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/obtaining-hc/</loc>
+     <loc>https://h.cash/getting-started/obtaining-hc/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/using-the-block-explorer/</loc>
+     <loc>https://h.cash/getting-started/using-the-block-explorer/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/user-guides/agenda-voting/</loc>
+     <loc>https://h.cash/getting-started/user-guides/agenda-voting/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/user-guides/how-to-vote/</loc>
+     <loc>https://h.cash/getting-started/user-guides/how-to-vote/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/using-testnet/</loc>
+     <loc>https://h.cash/getting-started/using-testnet/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/constitution/</loc>
+     <loc>https://h.cash/getting-started/constitution/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/user-guides/hcgui-setup/</loc>
+     <loc>https://h.cash/getting-started/user-guides/hcgui-setup/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/user-guides/using-hcgui/</loc>
+     <loc>https://h.cash/getting-started/user-guides/using-hcgui/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/user-guides/cli-installation/</loc>
+     <loc>https://h.cash/getting-started/user-guides/cli-installation/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/cli-differences/</loc>
+     <loc>https://h.cash/getting-started/cli-differences/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/startup-basics/</loc>
+     <loc>https://h.cash/getting-started/startup-basics/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/user-guides/hcd-setup/</loc>
+     <loc>https://h.cash/getting-started/user-guides/hcd-setup/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/user-guides/hcwallet-setup/</loc>
+     <loc>https://h.cash/getting-started/user-guides/hcwallet-setup/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/user-guides/hcctl-basics/</loc>
+     <loc>https://h.cash/getting-started/user-guides/hcctl-basics/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/user-guides/hcwallet-tickets/</loc>
+     <loc>https://h.cash/getting-started/user-guides/hcwallet-tickets/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/getting-started/user-guides/web/</loc>
+     <loc>https://h.cash/getting-started/user-guides/web/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/mining/proof-of-stake/</loc>
+     <loc>https://h.cash/mining/proof-of-stake/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/mining/how-to-stake/</loc>
+     <loc>https://h.cash/mining/how-to-stake/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/faq/proof-of-stake/general/</loc>
+     <loc>https://h.cash/faq/proof-of-stake/general/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/faq/proof-of-stake/solo-mining/</loc>
+     <loc>https://h.cash/faq/proof-of-stake/solo-mining/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/faq/proof-of-stake/buying-tickets-and-fees/</loc>
+     <loc>https://h.cash/faq/proof-of-stake/buying-tickets-and-fees/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/faq/proof-of-stake/voting-tickets/</loc>
+     <loc>https://h.cash/faq/proof-of-stake/voting-tickets/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/faq/proof-of-stake/stake-pools/</loc>
+     <loc>https://h.cash/faq/proof-of-stake/stake-pools/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/mining/proof-of-work/</loc>
+     <loc>https://h.cash/mining/proof-of-work/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/mining/proof-of-work/pool-mining/gominer/</loc>
+     <loc>https://h.cash/mining/proof-of-work/pool-mining/gominer/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/faq/proof-of-work-mining/</loc>
+     <loc>https://h.cash/faq/proof-of-work-mining/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/faq/general/</loc>
+     <loc>https://h.cash/faq/general/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/faq/configuration/</loc>
+     <loc>https://h.cash/faq/configuration/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/faq/wallets-and-seeds/</loc>
+     <loc>https://h.cash/faq/wallets-and-seeds/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/faq/web-client/</loc>
+     <loc>https://h.cash/faq/web-client/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/faq/blocks/</loc>
+     <loc>https://h.cash/faq/blocks/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/faq/errors/</loc>
+     <loc>https://h.cash/faq/errors/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/manual-cli-install/</loc>
+     <loc>https://h.cash/advanced/manual-cli-install/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/storing-login-details/</loc>
+     <loc>https://h.cash/advanced/storing-login-details/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/program-options/</loc>
+     <loc>https://h.cash/advanced/program-options/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/block-header-specifications/</loc>
+     <loc>https://h.cash/advanced/block-header-specifications/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/blockchain-parameters/</loc>
+     <loc>https://h.cash/advanced/blockchain-parameters/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/transaction-details/</loc>
+     <loc>https://h.cash/advanced/transaction-details/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/verifying-binaries/</loc>
+     <loc>https://h.cash/advanced/verifying-binaries/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/inflation/</loc>
+     <loc>https://h.cash/advanced/inflation/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/deleting-your-wallet/</loc>
+     <loc>https://h.cash/advanced/deleting-your-wallet/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/hcctl-usage/</loc>
+     <loc>https://h.cash/advanced/hcctl-usage/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/simnet/</loc>
+     <loc>https://h.cash/advanced/simnet/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/research/overview/</loc>
+     <loc>https://h.cash/research/overview/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/research/hybrid-design/</loc>
+     <loc>https://h.cash/research/hybrid-design/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/research/decentralized-stake-pooling/</loc>
+     <loc>https://h.cash/research/decentralized-stake-pooling/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/research/elliptic-curve-signature-algorithms/</loc>
+     <loc>https://h.cash/research/elliptic-curve-signature-algorithms/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/research/blake-256-hash-function/</loc>
+     <loc>https://h.cash/research/blake-256-hash-function/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/research/script-extensions/</loc>
+     <loc>https://h.cash/research/script-extensions/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/research/signature-script-isolation-and-fraud-proofs/</loc>
+     <loc>https://h.cash/research/signature-script-isolation-and-fraud-proofs/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/research/transaction-extensions/</loc>
+     <loc>https://h.cash/research/transaction-extensions/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/research/schnorr-signatures/</loc>
+     <loc>https://h.cash/research/schnorr-signatures/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/research/miscellaneous-improvements/</loc>
+     <loc>https://h.cash/research/miscellaneous-improvements/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/contributor-compensation/</loc>
+     <loc>https://h.cash/advanced/contributor-compensation/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/using-github/</loc>
+     <loc>https://h.cash/advanced/using-github/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/advanced/contributing/</loc>
+     <loc>https://h.cash/advanced/contributing/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.decred.org/about/license/</loc>
+     <loc>https://h.cash/about/license/</loc>
      <lastmod>2018-07-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
